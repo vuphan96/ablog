@@ -1,0 +1,13 @@
+.table tr th {
+    text-align: center !important;
+}
+
+.image {
+    display: block !important;
+    text-align: center !important;
+}
+
+.image img {
+    background-color: rgba(255, 255, 255, 0) !important;
+    border-color: rgba(255, 255, 255, 0) !important;
+}
